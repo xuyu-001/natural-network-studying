@@ -1,4 +1,4 @@
-# natural-network-studying
+# Neural-Network-Studying
 some explain
 This repository contains some annotated neural network models. 
 It is suitable for beginners in deep learning with limited coding skills. 
